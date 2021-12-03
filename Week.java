@@ -1,6 +1,6 @@
-пакет  ru.mirea.gibo0119.pr5 ;
+package ru.mirea.gibo0119.pr5;
 
-public  enum  Week {
+public enum Week {
     ПОНЕДЕЛЬНИК,
     ВТОРНИК,
     СРЕДА,
